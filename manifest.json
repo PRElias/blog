@@ -1,0 +1,117 @@
+{
+    "dir": "ltr",
+    "lang": "pt-BR",
+    "name": "Paulo Roberto Elias",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://paulorobertoelias.com.br/",
+    "short_name": "Paulo Elias",
+    "theme_color": "#FFFFFF",
+    "description": "Site pessoal, hub de contatos e blog",
+    "orientation": "portrait",
+    "background_color": "#FFFFFF",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/img/cropped-employee.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/c7784fe6-08c1-1cd1-485d-9babe303aa17.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/e7a197f3-bf1f-7dd7-8578-571f808477d4.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/6e398646-36f7-d59b-feea-081243b1d683.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/e1407c03-53c8-57a5-efa5-dea1741d28b6.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ddab30b5-6d49-2afc-e38c-f69437bfbdce.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/fe78eac4-c1ab-5687-efca-344134a6020b.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/f8d3fe8e-1851-1725-73ac-1667d96ae543.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ffda77c0-c5df-a15f-6d62-723b3cf9b3d5.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/c6e71795-fe9b-fdde-2d7e-cd7d3da8f46f.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/0c35de35-857b-e864-e56f-c474297bee81.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/00555b88-1e3a-db0f-fae3-1bce2ae52442.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/783fb908-2d8e-669a-de2a-6735b46dc54f.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/c513311c-2f66-f174-3993-4426d1dae907.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ff3b9f42-8299-4822-6847-cee40842f009.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/a0a33eb0-8ba2-dcb0-a95c-61e01708c7de.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/2172b76c-7336-11df-97a5-56712ac3a0f3.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/6fd2dee8-b452-a10a-7045-d106526a7f4b.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/e39b0b9b-70d6-2203-11ce-bbefdf5712b5.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/b048a9de-1071-8e80-fb1a-8f47cf228aa3.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
