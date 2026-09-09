@@ -66,4 +66,4 @@ Espero que você se divirta muito com esse setup e caso tenha alguma dificuldade
 
 Abraço a todos
 
-UPDATE: Novo post com novidades sobre o projeto, [clique aqui](https://paulorobertoelias.com.br/2018-09-09-emulationstation-facil-para-windows-novidades/).
+UPDATE: Novo post com novidades sobre o projeto, [clique aqui](https://blog.paulorobertoelias.com.br/2018-09-09-emulationstation-facil-para-windows-novidades/).

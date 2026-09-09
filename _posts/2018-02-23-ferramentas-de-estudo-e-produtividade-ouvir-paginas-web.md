@@ -11,7 +11,7 @@ tags: [dicas]
 
 Hoje darei mais uma dica que julgo muito interessante para aprendizado de idiomas, embora a ferramenta possa ser utilizada para diversos fins.
 
-“Text-to-speech” e o nome utilizado para essa tecnologia, que consiste em aplicações que leem textos e transformam em voz e há vários deles no mercado para diversos fins. O próprio [Pocket](https://paulorobertoelias.com.br/2017-09-27-rss-e-o-consumo-de-midia-e-noticias/), que já indiquei aqui no blog, possui uma funcionalidade com essa tecnologia, permitindo que você escute os textos dos links que salvou.
+“Text-to-speech” e o nome utilizado para essa tecnologia, que consiste em aplicações que leem textos e transformam em voz e há vários deles no mercado para diversos fins. O próprio [Pocket](https://blog.paulorobertoelias.com.br/2017-09-27-rss-e-o-consumo-de-midia-e-noticias/), que já indiquei aqui no blog, possui uma funcionalidade com essa tecnologia, permitindo que você escute os textos dos links que salvou.
 
 Mas encontrei uma forma muito prática de fazer isso diretamente no navegador (Google Chrome), através da extensão [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp). Basta você clicar no link e adicionar.
 
