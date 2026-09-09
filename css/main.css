@@ -1012,3 +1012,99 @@ pre,
   color: #fff;
   background-color: rgba(13, 16, 22, 0.72);
 }
+
+/* --- Silver readability tuning --- */
+
+body {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.92), 0 0 12px rgba(0, 0, 0, 0.42);
+}
+
+.container.main > .row,
+body > .container:not(.beautiful-jekyll-footer) > .row {
+  background:
+    linear-gradient(90deg, rgba(8, 10, 14, 0.5), rgba(30, 35, 42, 0.32) 48%, rgba(8, 10, 14, 0.16));
+  border-left: 1px solid rgba(255, 255, 255, 0.22);
+  border-right: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 16px 44px rgba(0, 0, 0, 0.16);
+}
+
+.post-preview,
+.blog-post,
+.staticman-comments,
+.disqus-comments {
+  background: rgba(12, 15, 20, 0.26);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 6px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.post-preview {
+  margin: 18px 0;
+}
+
+.blog-post {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+p,
+.post-entry,
+.blog-post li,
+.blog-post td,
+.blog-tags,
+.post-preview .post-meta,
+.post-heading .post-meta {
+  -webkit-text-stroke: 0;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.96), 0 0 10px rgba(0, 0, 0, 0.48);
+}
+
+.post-preview .post-title,
+.post-preview .post-subtitle,
+.intro-header .page-heading h1,
+.intro-header .post-heading h1,
+.blog-post h1,
+.blog-post h2,
+.blog-post h3,
+.blog-post h4,
+.blog-post h5,
+.blog-post h6 {
+  -webkit-text-stroke: 0.3px rgba(0, 0, 0, 0.82);
+  text-shadow:
+    -1px -1px 0 rgba(0, 0, 0, 0.92),
+    1px -1px 0 rgba(0, 0, 0, 0.92),
+    -1px 1px 0 rgba(0, 0, 0, 0.92),
+    1px 1px 0 rgba(0, 0, 0, 0.92),
+    0 3px 10px rgba(0, 0, 0, 0.72);
+}
+
+a,
+.post-preview a,
+.blog-tags a,
+footer a {
+  text-shadow: 0 1px 2px #000, 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.post-preview .post-read-more {
+  color: #fff;
+  font-weight: 800;
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.68);
+  text-underline-offset: 3px;
+}
+
+@media only screen and (max-width: 767px) {
+  .container.main > .row,
+  body > .container:not(.beautiful-jekyll-footer) > .row {
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .post-preview,
+  .blog-post,
+  .staticman-comments,
+  .disqus-comments {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
