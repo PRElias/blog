@@ -24,6 +24,7 @@ description: Site pessoal e blog
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  Site: "https://paulorobertoelias.com.br"
   Categorias: "tags"
   Sobre: "aboutme"
 #  Resources:
