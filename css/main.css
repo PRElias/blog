@@ -421,6 +421,19 @@ footer .theme-by {
   background-color: #EEE;
 }
 
+.post-pageviews {
+  min-height: 1.7em;
+  margin: 22px 0 28px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.post-pageviews[hidden] {
+  display: none;
+}
+
 .post-preview .blog-tags {
   margin-top: 5px;
   margin-bottom: 0;
@@ -1053,6 +1066,7 @@ p,
 
 .post-preview .post-meta,
 .post-heading .post-meta,
+.post-pageviews,
 .blog-tags,
 #full-tags-list .tag-entry .entry-date,
 blockquote {

@@ -35,6 +35,12 @@ layout: base
         {{ content }}
       </article>
 
+      {% assign pageviews_cache_version = site.time | date: "%Y%m%d" %}
+      <div class="post-pageviews" data-pageviews data-pageviews-src="{{ '/data/pageviews.json?v=' | append: pageviews_cache_version | prepend: site.baseurl | replace: '//', '/' }}" aria-busy="true">
+        <span data-pageviews-value>&nbsp;</span>
+      </div>
+      <script defer src="{{ '/js/post-pageviews.js' | prepend: site.baseurl | replace: '//', '/' }}"></script>
+
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
