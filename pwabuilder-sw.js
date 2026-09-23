@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'paulo-pwa-v5';
+const CACHE_VERSION = 'paulo-pwa-v6';
 const APP_SHELL_CACHE = `${CACHE_VERSION}-app-shell`;
 const OFFLINE_PAGE = '/offline.html';
 const APP_SHELL = [
@@ -95,4 +95,3 @@ self.addEventListener('fetch', function (event) {
     })
   );
 });
-

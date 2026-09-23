@@ -64,6 +64,7 @@
   if (!container || !window.fetch) return;
 
   var source = container.getAttribute('data-pageviews-src');
+  var pagePath = container.getAttribute('data-pageviews-path') || window.location.pathname;
   var value = container.querySelector('[data-pageviews-value]');
   if (!source || !value) {
     hide(container);
@@ -76,8 +77,8 @@
       return response.json();
     })
     .then(function (data) {
-      var count = lookupCount(data, window.location.pathname);
-      if (!Number.isFinite(count) || count <= 0) {
+      var count = lookupCount(data, pagePath);
+      if (!isFinite(count) || count <= 0) {
         hide(container);
         return;
       }
