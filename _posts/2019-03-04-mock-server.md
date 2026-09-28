@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/httpdebugger.png
 bigimg: /img/httpdebugger.png
 share-img: /img/httpdebugger.png
-tags: [mock, http, desenvolvimento, dicas]
+tags: [tecnologia, dicas diversas]
 published: false
 ---
 

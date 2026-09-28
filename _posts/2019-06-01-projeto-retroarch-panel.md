@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/bannerBackgroundImage.gif
 bigimg: /img/bannerBackgroundImage.gif
 share-img: /img/bannerBackgroundImage.gif
-tags: [projetos, emuladores]
+tags: [projetos, jogos]
 published: true
 ---
 

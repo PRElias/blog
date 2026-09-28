@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/Daniel_Suarez_DeltaV.png
 bigimg: /img/Daniel_Suarez_DeltaV.png
 share-img: /img/deltav-01.jpg
-tags: [pessoal]
+tags: [biografia]
 published: true
 ---
 

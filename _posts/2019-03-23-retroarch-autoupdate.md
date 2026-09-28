@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/retroarch.png
 bigimg: /img/retroarch.jpg
 share-img: /img/retroarch.jpg
-tags: [emuladores, dicas]
+tags: [jogos, dicas diversas]
 ---
 
 Retroarch é o emulador (ou conjunto de emuladores) mais utilizado, inclusive integrado ao EmulationStation. Já falei sobre o projeto que participo de instalação facilitada deles em máquinas Windows, [aqui](https://blog.paulorobertoelias.com.br/2018-07-04-emulationstation-configuracao-simples-para-windows/). Porém este projeto não trata da parte de atualização, tanto do próprio Retroarch, como dos seus chamados *cores*, que são as DLLs que contém os emuladores em si.

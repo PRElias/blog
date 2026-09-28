@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/sqlserver.png
 bigimg: /img/sqlserver.png
 share-img: /img/sqlserver.png
-tags: [sqlserver, dicas]
+tags: [tecnologia, dicas diversas]
 published: true
 ---
 

@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/Watcher.png
 bigimg: /img/Watcher.png
 share-img: /img/Watcher.png
-tags: [dicas]
+tags: [jogos, dicas diversas]
 published: true
 ---
 

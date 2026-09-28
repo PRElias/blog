@@ -6,7 +6,7 @@ image: /img/bcr.png
 bigimg: /img/02.jpg
 share-img: /img/02.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2019/01/28/business-analysis-content-repository/
-tags: [projetos, scrum]
+tags: [projetos]
 ---
 
 Gostaria de compartilhar aqui uma ideia que tive em meio a um curso de BPM, que tive o prazer de participar, na empresa em que eu trabalho.

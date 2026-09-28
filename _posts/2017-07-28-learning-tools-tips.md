@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/estudo.jpg
 bigimg: /img/estudo.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2017/07/28/learning-tools-tips/
-tags: [dicas]
+tags: [dicas diversas]
 ---
 
 Gostaria de apresentar a quem não conhece, duas ferramentas bem interessantes que venho utilizando nos meus estudos de inglês.

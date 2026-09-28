@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/project_sw.jpg
 bigimg: /img/project_sw.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/09/25/a-arte-de-levantar-e-definir-requisitos-de-software/
-tags: [projetos, scrum]
+tags: [tecnologia]
 ---
 
 Sou analista funcional, analista de requisitos ou product owner já há um bom tempo. Apesar de todos esses nomes, mesmo quando eu era analista de produto há ainda mais anos atrás, grande parte do meu papel já era esse: levantar e analisar requisitos e principalmente, propor soluções.

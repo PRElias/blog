@@ -6,7 +6,7 @@ image: /img/whatsapp-business.png
 bigimg: /img/whatsapp-business.png
 share-img: /img/whatsapp-business.png
 redirect_from: httpblog.paulorobertoelias.com.brindex.php20180720whatsapp-usando-2-contas-no-mesmo-aparelho
-tags: [dicas]
+tags: [tecnologia, dicas diversas]
 ---
 
 Todo mundo que possui aparelhos com dois chips, caso um deles seja profissional, já se deparou com esse problema. Como usar o app do WhatsApp nos dois?

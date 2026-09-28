@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/bannerLinkedin.jpg
 bigimg: /img/bannerLinkedin.jpg
 share-img: /bannerLinkedin.jpg
-tags: [biografia]
+tags: [dicas diversas]
 published: false
 ---
 

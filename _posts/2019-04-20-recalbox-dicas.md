@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/arcades.jpg
 bigimg: /img/arcades.jpg
 share-img: /img/arcades.jpg
-tags: [emuladores, dicas]
+tags: [jogos, dicas diversas]
 published: true
 ---
 

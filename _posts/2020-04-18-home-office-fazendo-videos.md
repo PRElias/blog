@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/homeoffice.jpg
 bigimg: /img/homeoffice.jpg
 share-img: /img/homeoffice.jpg
-tags: [home-office]
+tags: [tecnologia, dicas diversas]
 published: true
 ---
 

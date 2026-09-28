@@ -6,7 +6,7 @@ image: /img/gulp_php.png
 bigimg: /img/gulp_php.png
 share-img: /img/gulp_php.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/06/13/controlando-versoes-com-php-svn-e-gulp/
-tags: [dicas, php, svn, gulp]
+tags: [tecnologia, dicas diversas]
 ---
 
 Com o crescente uso do Git para controle de repositórios, talvez essa dica não seja mais tão útil, contudo, como aqui na empresa que trabalho ainda usamos Tortoise SVN, pode haver outras empresas e pessoas mundo afora, interessadas no post de hoje.

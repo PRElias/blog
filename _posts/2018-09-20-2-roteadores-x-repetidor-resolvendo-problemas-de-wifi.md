@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/powerlines-repetidores.jpg
 bigimg: /img/powerlines-repetidores.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/09/20/2-roteadores-x-repetidor-resolvendo-problemas-de-wifi/
-tags: [dicas]
+tags: [tecnologia, dicas diversas]
 ---
 
 No meu apartamento, apesar de pequeno, o WiFi sempre foi um problema. O sinal do roteador da NET não chega até o quarto.

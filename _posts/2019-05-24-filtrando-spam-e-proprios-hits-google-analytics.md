@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/google-analytics.png
 bigimg: /img/google-analytics.png
 share-img: /img/google-analytics.png
-tags: [dicas]
+tags: [tecnologia, dicas diversas]
 published: true
 ---
 

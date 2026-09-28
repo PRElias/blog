@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/es-win.png
 bigimg: /img/es-win.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/09/09/emulationstation-facil-para-windows-novidades/
-tags: [projetos, emuladores]
+tags: [projetos, jogos]
 ---
 
 Já falei sobre meu projeto opensource no Github para configuração fácil do Emulation Station no Windows [aqui](https://prelias.github.io/paulorobertoelias.com.br/2018-07-04-emulationstation-configuracao-simples-para-windows/). E hoje venho apresentar algumas pequenas novidades que inseri no mesmo visando torná-lo ainda mais fácil.

@@ -6,7 +6,7 @@ image: /img/Docker.png
 bigimg: /img/Docker.png
 share-img: /img/Docker.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2019/01/28/business-analysis-content-repository/
-tags: [dicas, docker]
+tags: [tecnologia, dicas diversas]
 ---
 
 Docker é uma ferramenta que possibilita que você utilize máquinas virtuais não completas para executar, por exemplo, o código de seu projeto, ou seu servidor de banco de dados.

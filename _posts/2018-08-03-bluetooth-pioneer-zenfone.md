@@ -6,7 +6,7 @@ image: /img/bluetooth-logo2-100752187-large.jpg
 bigimg: /img/bluetooth-logo2-100752187-large.jpg
 share-img: /img/bluetooth-logo2-100752187-large.jpg
 redirect_from: httpblog.paulorobertoelias.com.brindex.php20180803bluetooth-pioneer-zenfone
-tags: [dicas]
+tags: [tecnologia, dicas diversas]
 ---
 
 Resolvi registrar essa dica após as dificuldades que passei para configurar corretamente o Bluetooth do meu novo celular Zenfone 4 com meu som do carro Pioneer MVH-X588BT.

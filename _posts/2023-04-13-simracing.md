@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/simracing.jpeg
 bigimg: /img/simracing.jpeg
 share-img: /img/simracing.jpeg
-tags: [dicas]
+tags: [jogos]
 published: true
 ---
 

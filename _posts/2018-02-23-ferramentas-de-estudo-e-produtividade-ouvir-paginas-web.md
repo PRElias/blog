@@ -6,7 +6,7 @@ image: /img/text-to-speech-softwre.jpg
 bigimg: /img/text-to-speech-softwre.jpg
 share-img: /img/text-to-speech-softwre.jpg
 redirect_from: httpblog.paulorobertoelias.com.brindex.php20180223ferramentas-de-estudo-e-produtividade-ouvir-paginas-web
-tags: [dicas]
+tags: [dicas diversas]
 ---
 
 Hoje darei mais uma dica que julgo muito interessante para aprendizado de idiomas, embora a ferramenta possa ser utilizada para diversos fins.

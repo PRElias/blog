@@ -5,7 +5,6 @@ use-site-title: true
 image: /img/chrome-logo.jpg
 bigimg: /img/chrome-logo.jpg
 share-img: /img/chrome-logo.jpg
-tags: [futebol]
 published: false
 ---
 

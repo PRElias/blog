@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/chrome-69.jpg
 bigimg: /img/chrome-69.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/09/08/chrome-69-utilizando-pip-video-flutuante/
-tags: [dicas]
+tags: [tecnologia, dicas diversas]
 ---
 
 Essa dica é para o pessoal que gosta de assistir vídeos do Youtube e outros serviços semelhantes no Windows (infelizmente não funciona com o Netflix).

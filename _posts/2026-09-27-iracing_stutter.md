@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/thumbnail_iracing.png
 bigimg: /img/thumbnail_iracing.png
 share-img: /img/thumbnail_iracing.png
-tags: [dicas]
+tags: [jogos, dicas diversas]
 published: true
 ---
 

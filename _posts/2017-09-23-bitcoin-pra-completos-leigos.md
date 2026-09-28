@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/bitcoin-b-825x510.jpg
 bigimg: /img/bitcoin-b-825x510.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2017/09/23/bitcoin-pra-completos-leigos/
-tags: [bitcoin]
+tags: [tecnologia]
 ---
 
 Vamos lá, muita gente não se dá conta ou esquece, mas o dinheiro não existe! Ele é apenas uma ilusão coletiva poderosíssima e os governos e bancos “imprimem” dinheiro. 🙂

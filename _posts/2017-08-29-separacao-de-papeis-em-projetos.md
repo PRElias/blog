@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/shutterstock_139490855_redim-825x510.jpg
 bigimg: /img/shutterstock_139490855_redim-825x510.jpg
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2017/08/29/portugues-do-brasil-separacao-de-papeis-em-projetos/
-tags: [scrum]
+tags: [tecnologia]
 ---
 
 Um dos fatores mais importantes, porém, muito relegado em projetos, é a separação dos papéis. É óbvio que projetos menores ou que envolvam menos pessoas acabam por resultar em grandes acúmulos de funções, contudo, o gestor do projeto ou qual seja o nome que seja dado ao seu responsável, precisa estar atento a separação de papéis, no que tange principalmente os interesses e seus possíveis conflitos.

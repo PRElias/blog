@@ -7,7 +7,7 @@ bigimg: /img/bgs1.jpg
 bigimg: /img/bgs1.jpg
 share-img: /img/02.jpg
 redirect_from: http://blog.paulorobertoelias.com.brindex.php20171015brasil-game-show-2017-eu-fui
-tags: [eventos, bgs]
+tags: [eventos]
 ---
 
 Ontem estive mais uma vez em São Paulo para a Brasil Game Show 2017. O evento está a cada ano mais belo e organizado e valeu muito todo o esforço e custo para comparecer.

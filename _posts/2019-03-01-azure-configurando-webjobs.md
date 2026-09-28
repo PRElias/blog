@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/azure-webjob.jpeg
 bigimg: /img/azure-webjob.jpeg
 share-img: /img/azure-webjob.jpeg
-tags: [azure, dicas]
+tags: [tecnologia, dicas diversas]
 published: true
 ---
 

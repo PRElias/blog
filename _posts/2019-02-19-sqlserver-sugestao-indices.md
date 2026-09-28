@@ -6,7 +6,7 @@ image: /img/sqlserver.png
 bigimg: /img/sqlserver.png
 share-img: /img/sqlserver.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2019/01/28/business-analysis-content-repository/
-tags: [sqlserver, dicas]
+tags: [tecnologia, dicas diversas]
 published: true
 ---
 

@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/rss.png
 bigimg: /img/rss.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2017/09/27/rss-e-o-consumo-de-midia-e-noticias/
-tags: [rss]
+tags: [tecnologia]
 ---
 
 É…demorei…claro que não dá pra comparar o meu blog com sites de notícias ou produção de grandes conteúdos. Inclusive o escopo dele é outro. Uso o blog para exercitar minha escrita e aumentar minha presença online apenas, na vã esperança que alguém se interesse.
