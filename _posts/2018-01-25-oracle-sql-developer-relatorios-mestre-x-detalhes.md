@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/oracle-sql-developer.png
 bigimg: /img/oracle-sql-developer.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/01/25/oracle-sql-developer-relatorios-mestre-x-detalhes/
-tags: [tecnologia, dicas diversas]
+tags: [tecnologia]
 ---
 
 Olá a todos. Hoje vou falar de um recurso muito útil deste cliente de banco de dados. Embora a aplicação possa ser utilizada com diversos SGBD, devido ao suporte a ODBC, o recurso que vou apresentar hoje só funciona em bancos de dados Oracle (pelo menos até a última vez que eu testei).

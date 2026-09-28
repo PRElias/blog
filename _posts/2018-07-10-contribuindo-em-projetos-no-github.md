@@ -6,7 +6,7 @@ image: /img/github.png
 bigimg: /img/github.png
 share-img: /img/github.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/07/10/contribuindo-em-projetos-no-github/
-tags: [dicas diversas, projetos]
+tags: [projetos, tecnologia]
 ---
 
 Contribuir em projetos opensource no GitHub já é um assunto bem comentado. É um prazer, é útil e está cada vez mais facilitado.

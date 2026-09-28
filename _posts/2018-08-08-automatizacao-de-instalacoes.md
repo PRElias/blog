@@ -5,7 +5,7 @@ use-site-title: true
 image: /img/chocolatey.png
 bigimg: /img/chocolatey.png
 redirect_from: http://blog.paulorobertoelias.com.br/index.php/2018/08/08/automatizacao-de-intalacoes/
-tags: [tecnologia, dicas diversas]
+tags: [tecnologia]
 ---
 
 Com o Windows migrando para um formato loja para seus apps, talvez não seja interessante mais para todo tipo de usuário e softwares, a dica que darei hoje. Contudo, muitos aplicativos ainda não são distribuídos por ela, ou talvez jamais cheguem a ser.
