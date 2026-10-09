@@ -952,6 +952,32 @@ footer a:focus {
   box-shadow: none;
 }
 
+.post-header .intro-header.big-img::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(90deg, rgba(6, 16, 22, 0.86), rgba(6, 16, 22, 0.72) 70%, rgba(6, 16, 22, 0.58));
+}
+
+.post-header .intro-header.big-img > .container,
+.post-header .intro-header.big-img > .img-desc {
+  position: relative;
+  z-index: 2;
+}
+
+.post-header .intro-header.big-img > .img-desc {
+  position: absolute;
+}
+
+.post-header .intro-header.big-img .post-heading h1,
+.post-header .intro-header.big-img .post-heading .post-subheading,
+.post-header .intro-header.big-img .post-heading .post-meta {
+  color: var(--landing-paper);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
 .intro-header .page-heading h1,
 .intro-header .post-heading h1,
 .post-preview .post-title,
