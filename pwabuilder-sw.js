@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'paulo-pwa-v6';
+const CACHE_VERSION = 'paulo-pwa-v7';
 const APP_SHELL_CACHE = `${CACHE_VERSION}-app-shell`;
 const OFFLINE_PAGE = '/offline.html';
 const APP_SHELL = [
